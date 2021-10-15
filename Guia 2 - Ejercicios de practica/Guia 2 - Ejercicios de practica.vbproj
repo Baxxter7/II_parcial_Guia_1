@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>Guia_2___Ejercicios_de_practica</RootNamespace>
-    <StartupObject>Sub Main</StartupObject>
+    <StartupObject>Guia_2___Ejercicios_de_practica.Form2</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
     <OptionStrict>On</OptionStrict>
