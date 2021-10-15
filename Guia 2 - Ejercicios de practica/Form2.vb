@@ -1,10 +1,10 @@
 ﻿'Programador: Josue Isaias Martinez
 'N° cuenta: 20201002923
 'Descripción: 
-'2. Desarrolle un programa que demuestre que la suma de los enteros positivos de 1 a n, es igual 
-'a: 
-'𝒏(𝒏+𝟏)
-'   𝟐
+'3. Desarrolle un programa que reciba dos valores enteros positivos mediante textboxes, los envíe 
+'a un procedimiento y los intercambie. i.e. Si a=3 y b=7, después de terminar el procedimiento, 
+'las variables deberían tener a=7 y b = 3
+
 
 Public Class Form2
     Private Sub btnAccion_Click(sender As Object, e As EventArgs) Handles btnAccion.Click
